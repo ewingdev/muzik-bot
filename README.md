@@ -19,6 +19,4 @@ Lavalink, Discord-Player veya Distube gibi müzik yöneticisi paketleri olmadan 
 > https://www.instagram.com/ewingbaba/
 > https://discord.gg/users/774591026940739585
 
-## Kredi
-
 > *Bu altyapıyı botunuzda kullanmayı düşünürseniz, bu altyapıya veya Discord hakkında Esx_Ewing#2319'a teşekkür ettiğinizden emin olun.TEŞEKKÜRLER!*
