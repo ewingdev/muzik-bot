@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.8.0",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.10",
+    "youtube-sr": "^4.1.15",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "lightmusicbot",
+  "version": "1.3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ewing",
+  "license": "MIT",
+  "description": "Lavalink, Discord-Player veya Distube gibi müzik yöneticisi paketleri olmadan süper hafif, hızlı ve basit bir gelişmiş müzik botu.Teknik olarak Lavalink'in tüm filtrelerini sağlamak, ancak hız ve bassboost kontrolü ile 19 önceden tanımlanmış olan 19 ile sınırlıdır ve aynı zamanda slash komut ve msg komutlarında her şey!",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewingdev/muzik-bot.git"
+  },
+  "keywords": [
+    "music",
+    "bot",
+    "musicbot",
+    "discordjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/ewingdev/muzik-bot/issues"
+  },
+  "homepage": "https://github.com/ewingdev/muzik-bot#readme"
+}
