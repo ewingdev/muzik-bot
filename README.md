@@ -3,11 +3,11 @@ Lavalink, Discord-Player veya Distube gibi müzik yöneticisi paketleri olmadan 
 
 # ŞUANLIK İNGİLİZCE YAKINDA TÜRKÇE SÜRÜMÜ YAYINLANACAK!
 
-## Kurulum ve Başlayın
+## Kurulum
 
 - 1. `/config/config.json` dosyasında tokeninizi yapıştırın
 - 2. `./index.js` slashcommands dağıtım ayarlarını ayarlayın
-- 3. botu başlatın: `npm i` ve sonra `node. '
+- 3. botu başlatın: `npm i` ve sonra `node.'
 
 ## Hosting Gereksinimleri:
 
